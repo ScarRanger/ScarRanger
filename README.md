@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rhine Pereira</h1>
 <h3 align="center">Android Dev and a passionate backend developer</h3>
 
-- 🔭 Currently working on [MapWearLink](https://github.com/ScarRanger/MapWearLink/)
 
-- 🌱 Currently learning **Django and Kotlin**
+- 🌱 Currently learning **NextJS and Node**
 
 <p align="left">
 </p>
